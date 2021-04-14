@@ -1,0 +1,14 @@
+#container { 
+    margin: 20px auto; 
+    width:200px;
+    text-align: center;
+    }
+
+h2 {
+    margin-bottom: 50px;
+}
+
+form {
+    background-color: antiquewhite;
+}
+
